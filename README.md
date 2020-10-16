@@ -4,4 +4,4 @@
 
 Olá, eu sou o Giovani!
 
-* :mortar_board: Tecnólogo em análise e desenvolvimento de sistemas pela Faculdade de Tecnologia do Estado de São Paulo - FATEC
+* :mortar_board: Tecnólogo em análise e desenvolvimento de sistemas pela Faculdade de Tecnologia de São Paulo - FATEC
